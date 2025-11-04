@@ -1,2 +1,4 @@
-echo ".env\nnode_modules\nAlgoritms_2018.pdf\n" > .gitignore
 .env
+node_modules
+Algoritms_2018.pdf
+
